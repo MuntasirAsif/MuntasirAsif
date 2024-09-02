@@ -5,14 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=radical)
-
----
-
-### My Tech Stack
-
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
@@ -20,6 +12,14 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="40" height="40"/>
 </p>
+
+---
+
+### My Tech Stack
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=radical)
 
 
 ## 🛠️ Contributions
