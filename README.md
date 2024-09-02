@@ -11,7 +11,7 @@ And I'm a Mobile Application Developer(Flutter).
 
 ### My Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
@@ -19,7 +19,7 @@ And I'm a Mobile Application Developer(Flutter).
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="40" height="40"/>
 </p>
 
-
+---
 
 ### [Muntasir Ashif]'s GitHub Stats
 
