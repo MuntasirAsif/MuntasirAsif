@@ -15,15 +15,6 @@
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="60" height="60"/>
 </p>
 
-### 🛠️ Contributions
-
-- **Flutter**: Crafting cross-platform mobile applications with elegance and efficiency. 🌟
-- **Dart**: Writing clean, maintainable code to drive Flutter apps forward. 🧩
-- **C++ & C**: Engineering performance-critical components and system-level programming with precision. ⚙️
-- **PHP**: Powering backend development and API integrations with robust solutions. 🔗
-- **Open Source**: Contributing to the open-source community and fostering collaboration. 🌐
-
----
 
 ### Most Used Languages
 
