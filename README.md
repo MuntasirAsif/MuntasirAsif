@@ -8,11 +8,11 @@
 <h3 align="lest">Coding Languages</h3>
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
-  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="80" height="80"/>
+  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="80" height="80"/>
 </p>
 
 <h3 align="lest">🛠️ Contributions</h3>
