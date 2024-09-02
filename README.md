@@ -3,17 +3,18 @@ And I'm a Mobile Application Developer(Flutter).
 
 ---
 
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=radical)
+
+---
+
 ### [Muntasir Ashif]'s GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuntasirAsif&show_icons=true&theme=radical)
 
 ---
 
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=radical)
-
----
 
 ### Connect with me:
 
