@@ -9,15 +9,16 @@ I'm a Mobile Application Developer (Flutter).
 
 ---
 
-## 🚀 Current Tech Stack
+### My Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/flutter.png" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/dart.png" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/cplusplus.png" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/c.png" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/php.png" alt="PHP" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="40" height="40"/>
 </p>
+
 
 ## 🛠️ Contributions
 
