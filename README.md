@@ -12,11 +12,11 @@ I'm a Mobile Application Developer (Flutter).
 ## 🚀 Current Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/flutter.png" alt="Flutter" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/dart.png" alt="Dart" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/cplusplus.png" alt="C++" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/c.png" alt="C" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/php.png" alt="PHP" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/flutter.png" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/dart.png" alt="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/cplusplus.png" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/c.png" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/php.png" alt="PHP" width="40" height="40"/>
 </p>
 
 ## 🛠️ Contributions
