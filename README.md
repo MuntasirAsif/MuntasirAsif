@@ -15,7 +15,7 @@
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="40" height="40"/>
 </p>
 
-## 🛠️ Contributions
+<h3 align="lest">🛠️ Contributions</h3>
 
 - **Flutter**: Building cross-platform mobile applications.
 - **Dart**: Writing clean, maintainable code for Flutter apps.
