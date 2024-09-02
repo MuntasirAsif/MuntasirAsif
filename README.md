@@ -11,11 +11,12 @@ And I'm a Mobile Application Developer(Flutter).
 
 ### My Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/> 
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="40" height="40"/>
+
 
 
 ### [Muntasir Ashif]'s GitHub Stats
