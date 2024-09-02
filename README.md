@@ -5,6 +5,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+### My Tech Stack
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
@@ -13,15 +15,6 @@
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="40" height="40"/>
 </p>
 
----
-
-### My Tech Stack
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=radical)
-
-
 ## 🛠️ Contributions
 
 - **Flutter**: Building cross-platform mobile applications.
@@ -29,6 +22,14 @@
 - **C++ & C**: Developing performance-critical components and system-level programming.
 - **PHP**: Backend development and API integration.
 - **Open Source**: Actively contributing to open-source projects and collaborating with the developer community.
+
+---
+
+
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=radical)
 
 ---
 
