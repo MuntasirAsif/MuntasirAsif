@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://miro.medium.com/v2/resize:fit:366/format:webp/1*IdvhijNfZamrJk7p8YZM5Q.gif">
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
 ### Coding Languages
 
