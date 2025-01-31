@@ -22,18 +22,19 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuntasirAsif " />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuntasirAsif" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=MuntasirAsif&show_icons=true&theme=dracula" alt="MuntasirAsif's GitHub Stats" />
     </td>
   </tr>
 </table>
+
 
 ---
 
