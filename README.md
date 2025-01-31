@@ -18,7 +18,7 @@
 
 ### Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact)
 
 ---
 
@@ -27,10 +27,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuntasirAsif"theme="dracula" alt="MuntasirAsif's GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuntasirAsif" alt="MuntasirAsif's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MuntasirAsif&show_icons=true&theme=dracula" alt="MuntasirAsif's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MuntasirAsif" alt="MuntasirAsif's GitHub Stats" />
     </td>
   </tr>
 </table>
