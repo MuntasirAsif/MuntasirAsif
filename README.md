@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/api?user=MuntasirAsif" alt="MuntasirAsif's GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?username=MuntasirAsif" alt="MuntasirAsif's GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=MuntasirAsif" alt="MuntasirAsif's GitHub Stats" />
