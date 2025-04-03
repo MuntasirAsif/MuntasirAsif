@@ -18,22 +18,12 @@
 
 ### Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=dark" alt="Most Used Languages" />
 
 ---
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?username=MuntasirAsif" alt="MuntasirAsif's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MuntasirAsif" alt="MuntasirAsif's GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/GitHub-Streaks-orange?style=for-the-badge&logo=github" alt="GitHub Streaks Badge">
+<img src="https://github-readme-stats.vercel.app/api?username=MuntasirAsif&show_icons=true&theme=dark" alt="MuntasirAsif's GitHub Stats" />
 
 
 ---
