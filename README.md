@@ -1,34 +1,43 @@
-# Hi 👋! I'm Muntasir Ashif
-### Mobile Application Developer (Flutter)
+# 👋 Hey, I'm Muntasir Ashif
+
+### 🚀 Full Stack Mobile Developer | Flutter Wizard | Backend Specialist
+
+<img align="right" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" height="300" width="400" alt="Coder GIF">
 
 ---
 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
+🏢 **Software Engineer** at [BDCalling](https://bdcalling.com)  
+🎯 **Director of App Development** at **NCC**  
+🧠 Passionate about **building smart apps**, solving real-world problems with **C++**, and crafting robust backend systems with **Django**  
 
-### Coding Languages
+I thrive in fast-paced dev environments, love turning ideas into scalable mobile solutions, and I'm always exploring new tech to stay ahead of the curve. Whether it’s Flutter UI magic or backend logic in Python/Django—I'm all in. 🔥
+
+---
+
+### 🚀 Tech Stack
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-colored.svg" alt="Django" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="60" height="60"/>
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="60" height="60"/>
 </p>
 
+---
 
-### Most Used Languages
+### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=dark" alt="Most Used Languages" />
-
----
 
 <img src="https://img.shields.io/badge/GitHub-Streaks-orange?style=for-the-badge&logo=github" alt="GitHub Streaks Badge">
 <img src="https://github-readme-stats.vercel.app/api?username=MuntasirAsif&show_icons=true&theme=dark" alt="MuntasirAsif's GitHub Stats" />
 
-
 ---
 
-### Connect with Me
+### 🌐 Let's Connect
 
 [![YouTube](https://img.shields.io/badge/YouTube-E60023?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@errorcode99official)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muntasir-mahamud-ashif-2a6749200/)
