@@ -20,7 +20,7 @@ I thrive in fast-paced dev environments, love turning ideas into scalable mobile
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-colored.svg" alt="Django" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="Django" width="60" height="60"/>          
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="60" height="60"/>
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="60" height="60"/>
