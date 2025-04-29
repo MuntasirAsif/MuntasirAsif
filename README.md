@@ -30,12 +30,15 @@ I thrive in fast-paced dev environments, love turning ideas into scalable mobile
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=dark" alt="Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuntasirAsif&theme=dark&hide_border=true" width="400" />
-</p>
+<div align="left">
+  <div style="display: flex; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=dark" alt="Most Used Languages" height="150" style="margin-right: 20px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MuntasirAsif&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="150" style="border: 1px solid #444; border-radius: 5px;" />
+  </div>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuntasirAsif&show_icons=true&theme=dark" alt="MuntasirAsif's GitHub Stats" height="180"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuntasirAsif&show_icons=true&theme=dark" alt="MuntasirAsif's GitHub Stats" />
 
 ---
 
