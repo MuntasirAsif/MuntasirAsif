@@ -12,8 +12,6 @@
 
 I thrive in fast-paced dev environments, love turning ideas into scalable mobile solutions, and I'm always exploring new tech to stay ahead of the curve. Whether it’s Flutter UI magic or backend logic in Python/Django—I'm all in. 🔥
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=MuntasirAsif&theme=dark&hide_border=true" width = 400>
-
 ---
 
 ### 🚀 Tech Stack
@@ -32,9 +30,11 @@ I thrive in fast-paced dev environments, love turning ideas into scalable mobile
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=dark" alt="Most Used Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuntasirAsif&theme=dark&hide_border=true" width="400" />
+</p>
 
-<img src="https://img.shields.io/badge/GitHub-Streaks-orange?style=for-the-badge&logo=github" alt="GitHub Streaks Badge">
 <img src="https://github-readme-stats.vercel.app/api?username=MuntasirAsif&show_icons=true&theme=dark" alt="MuntasirAsif's GitHub Stats" />
 
 ---
