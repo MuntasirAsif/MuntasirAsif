@@ -12,6 +12,8 @@
 
 I thrive in fast-paced dev environments, love turning ideas into scalable mobile solutions, and I'm always exploring new tech to stay ahead of the curve. Whether it’s Flutter UI magic or backend logic in Python/Django—I'm all in. 🔥
 
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=MuntasirAsif&theme=dark&hide_border=true" width = 400>
+
 ---
 
 ### 🚀 Tech Stack
