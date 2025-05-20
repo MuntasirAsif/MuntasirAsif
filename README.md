@@ -2,12 +2,6 @@
 
 ### 🚀 Full Stack Mobile Developer | Flutter Wizard | Backend Specialist
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MuntasirAsif&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-  </a>
-</p>
-
 <img align="right" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" height="270" width="400" alt="Coder GIF" style="border-radius: 10px;" />
 
 ---
@@ -42,6 +36,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirAsif&layout=compact&theme=dark&langs_count=8" height="180" />
 </div>
 
+---
+## 📊 Trophy
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MuntasirAsif&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  </a>
+</p>
 ---
 
 ## 🌐 Let's Connect
