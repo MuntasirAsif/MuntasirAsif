@@ -16,14 +16,29 @@
 
 ## 🧰 Tech Stack
 
+### 🔹 Languages & Frameworks
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
+  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="GoLang" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="Django" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+</p>
+
+### 🔹 Tools & Platforms
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/glyph-neue/48/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" />
+  <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+  <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" />
 </p>
 
 ---
@@ -37,12 +52,15 @@
 </div>
 
 ---
-## 📊 Trophy
+
+## 🏆 GitHub Trophies
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MuntasirAsif&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MuntasirAsif&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophy" />
   </a>
 </p>
+
 ---
 
 ## 🌐 Let's Connect
