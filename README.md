@@ -21,11 +21,12 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
-  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="GoLang" />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="GoLang" width="55" height="55" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="Django" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  <img src="https://img.icons8.com/?size=48&id=lTKW3iI3wIT0&format=png&color=000000" alt="C" />
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" />
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
