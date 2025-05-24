@@ -6,6 +6,8 @@
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasirasif&label=Profile%20views&color=0e75b6&style=flat" alt="muntasirasif" /> </p>
+
 🏢 **Software Engineer** at [Betopia Group](https://www.betopiagroup.com/)  
 🎯 **Director of App Development** at **NCC**  
 🧠 Passionate about building smart apps, solving real-world problems with **C++**, and crafting robust backend systems with **Django**
