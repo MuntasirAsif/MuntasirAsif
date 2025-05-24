@@ -6,8 +6,6 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasirasif&label=Profile%20views&color=0e75b6&style=flat" alt="muntasirasif" /> </p>
-
 🏢 **Software Engineer** at [Betopia Group](https://www.betopiagroup.com/)  
 🎯 **Director of App Development** at **NCC**  
 🧠 Passionate about building smart apps, solving real-world problems with **C++**, and crafting robust backend systems with **Django**
@@ -15,6 +13,7 @@
 > I thrive in fast-paced environments, love turning ideas into scalable mobile solutions, and enjoy staying ahead with new tech. Whether it's Flutter UI magic or Python backend logic—I'm all in. 🔥
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasirasif&label=Profile%20views&color=0e75b6&style=flat" alt="muntasirasif" /> </p>
 
 ## 🧰 Tech Stack
 
