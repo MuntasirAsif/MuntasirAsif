@@ -55,16 +55,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MuntasirAsif&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-  </a>
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="left">
