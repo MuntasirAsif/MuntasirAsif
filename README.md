@@ -6,7 +6,7 @@
 
 ---
 
-🏢 **Software Engineer** at [Betopia Group](https://www.betopiagroup.com/)  
+🏢 **Software Engineer** at [RootDevs.](https://www.rootdevs.com/)  
 🎯 **Director of App Development** at **NCC**  
 🧠 Passionate about building smart apps, solving real-world problems with **C++**, and crafting robust backend systems with **Django**
 
