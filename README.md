@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=🚀+Full+Stack+Mobile+Developer;✨+Flutter+Wizard;⚙️+Backend+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Mobile+Developer;Flutter+Wizard;Backend+Specialist" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 <img align="right" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" height="250" width="350" alt="Coder GIF" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);" />
 
-🏢 **Software Engineer** at [RootDevs.](https://www.rootdevs.com/)  
+🏢 **Software Engineer** at [Kodevio Ltd.](https://kodevio.com/)  
 🎯 **Director of App Development** at **NCC**  
 🧠 Passionate about building smart apps, solving real-world problems with **C++**, and crafting robust backend systems with **Django**
 
